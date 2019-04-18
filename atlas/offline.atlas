@@ -1,0 +1,64 @@
+{
+    "frames": {
+        "XI_beijingtu.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 372,
+                "h": 130,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "w": 372,
+                "h": 130
+            }
+        },
+        "putonglignqu.png": {
+            "frame": {
+                "x": 0,
+                "y": 132,
+                "w": 59,
+                "h": 59,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "w": 59,
+                "h": 59
+            }
+        },
+        "suangbie.png": {
+            "frame": {
+                "x": 61,
+                "y": 132,
+                "w": 59,
+                "h": 59,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "w": 59,
+                "h": 59
+            }
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "1.00",
+        "format": "json",
+        "scale": 1,
+        "image": "offline.png",
+        "prefix": "module\/offline\/",
+        "md5": "fe9bc1721d51bf8879b6f4718b42bad9"
+    }
+}

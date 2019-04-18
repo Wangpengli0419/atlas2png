@@ -1,0 +1,22 @@
+{
+  "name": "altals2png",
+  "version": "1.0.0",
+  "description": "可以将layaAir中的.atlas及Egret中的.json图集切割为小图，并且不修改原小图的名称",
+  "main": "splitAtlas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "atlas2png": "node splitAtlas.js",
+    "json2png": "node splitJson.js"
+  },
+  "keywords": [
+    "Laya",
+    "LayaAir",
+    "Egret",
+    "atlas",
+    "json",
+    "split",
+    "image"
+  ],
+  "author": "wangpengli",
+  "license": "ISC"
+}
