@@ -56,7 +56,7 @@ function splitAtlas() {
                         function (err) {
                             if (!err) {
                                 console.log(`生成${i}成功`);
-                                copyIt(`${i}`, `./${atlasname}/${i}.png`);
+                                copyIt(`${i}`, `./${atlasname}/${i}`);
                                 fs.unlink(`${i}`);
                             }
                             else {
